@@ -1,6 +1,6 @@
 # Quick Description
 
-**Programmers :shipit:**: [José Angel Morell](https://github.com/jamorell?tab=repositories) and Zakaria Abdelmoiz DAHI, University of Malaga, Spain. 
+**Programmers :shipit:**: [José Angel Morell](https://github.com/jamorell?tab=repositories) and Zakaria Abdelmoiz DAHI. 
 
 **About:** This repositiory implements a time series forecasting for parking occupancy devised in [1] for both the cities of Malaga (Spain) and Birmingham (UK).
 
